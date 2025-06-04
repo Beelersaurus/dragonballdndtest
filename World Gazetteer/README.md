@@ -1,2 +1,3 @@
 # World Gazetteer
 
+With aid from Capsule Corporations newly opened museum, this chapter details the world of Dragon Ball and the many locations that can be found across its supercontinent. Earth is divided into four major districts: the Rugged North, the Sleepy East, the Southern Tropics,and finally the Western Verge. Each district also details the region's notable locations and includes adventure hooks for those who travel there.
