@@ -1,0 +1,3 @@
+# Character Options
+
+Here you will find a list of new options that can be used to add further detail to your characters. We’ve provided several subclasses for you to choose from, though you are not limited to the subclasses found in the chapter. In addition, here you will also find backgrounds, new feats and spells, powerful transformations, and a list of optional rules you may wish to use within your own campaigns.
